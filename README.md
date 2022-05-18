@@ -31,7 +31,6 @@ CAPITULO 1
 
 CAPITULO 2
 
-![image](https://user-images.githubusercontent.com/84789271/168847358-d1082d05-eb96-4a63-945c-1af5f9858ffa.png)
 ![image](https://user-images.githubusercontent.com/84789271/168847387-dc63ccba-ecf8-477f-b820-afb6d82a85d1.png)
 ![image](https://user-images.githubusercontent.com/84789271/168847421-6d211ea4-9c89-4a87-aab2-b16782cf5b18.png)
 ![image](https://user-images.githubusercontent.com/84789271/168847460-4cdd11e1-c6b7-4acb-9b1b-a2fc4e2bb2ef.png)
