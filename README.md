@@ -246,6 +246,10 @@ R = 10 k Ω *10 = 100 k Ω
 
 Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución
 
+VIDEO
+
+https://youtu.be/-6tuAJxEGaQ
+
 4.CONCLUSIONES
 
 En conclusión, determinamos que los conceptos básicos son de suma importancia para comprender mas sobre la electricidad, como la corriente, el voltaje entre otros términos que son muy indispensable entender para poder resolver posteriormente cualquier tipo de ejercicio donde se apliquen estos términos en circuitos eléctricos.
